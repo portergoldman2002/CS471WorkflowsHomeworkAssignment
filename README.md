@@ -119,3 +119,13 @@ This wiki page is a workaround to the GitHub [`Insights` -> `Network`](https://g
 
 ## Step 8 - Canvas
 Answer the questions in the [Canvas](https://boisestatecanvas.instructure.com/) assignment.
+
+
+-----------------------------------------------------------------------------------------------------------------------------
+
+# HW7 Part_2 - 
+
+Here is my first small harmless change
+
+
+
