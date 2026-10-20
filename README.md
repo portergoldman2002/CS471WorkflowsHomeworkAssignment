@@ -125,7 +125,9 @@ Answer the questions in the [Canvas](https://boisestatecanvas.instructure.com/) 
 
 # HW7 Part_2 - 
 
-Here is my first small harmless change
+1. Here is my first small harmless change.
+
+2. Here is my second small harmless change to this document.
 
 
 
