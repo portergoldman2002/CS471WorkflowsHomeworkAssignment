@@ -129,5 +129,7 @@ Answer the questions in the [Canvas](https://boisestatecanvas.instructure.com/) 
 
 2. Here is my second small harmless change to this document.
 
+3. Here is my third and final change to this document.
+
 
 
